@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vudens
+- 👋 Hi, I’m Chiri Denis Stephen  @Vudens
 - 👀 I’m interested in both front and back end programming
 - 🌱 I’m currently learning front-end programing 
 - 💞️ I’m looking to collaborate on any developmental ideas and development
